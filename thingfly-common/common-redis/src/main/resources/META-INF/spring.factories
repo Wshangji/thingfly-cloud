@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.thingfly.common.redis.config.RedisConfig,\
+  com.thingfly.common.redis.util.RedisUtils
