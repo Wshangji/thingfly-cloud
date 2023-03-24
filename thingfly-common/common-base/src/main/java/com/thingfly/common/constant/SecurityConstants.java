@@ -1,10 +1,10 @@
-package com.thingfly.common.utils;
+package com.thingfly.common.constant;
 
 /**
  * @ClassName SecurityConstants
  * @Description
  * @Author Nanf_bunan
- * @Time 2023/2/19 17:08
+ * @Time 2023/3/24 22:39
  * @Version 1.0
  */
 public interface SecurityConstants {

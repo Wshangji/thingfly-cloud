@@ -15,6 +15,7 @@
         <module>common-base</module>
         <module>common-redis</module>
         <module>common-mybatis-plus</module>
+        <module>common-web</module>
     </modules>
 
 
