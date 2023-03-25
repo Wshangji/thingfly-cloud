@@ -88,4 +88,3 @@ public class R<T> implements Serializable {
         return result != null && ResultCode.SUCCESS.getCode().equals(result.getCode());
     }
 }
-
