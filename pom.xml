@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>thingfly-common</module>
+        <module>thingfly-auth</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
