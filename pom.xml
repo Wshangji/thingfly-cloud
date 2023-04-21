@@ -11,6 +11,7 @@
     <modules>
         <module>thingfly-common</module>
         <module>thingfly-auth</module>
+        <module>thingfly-admin</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
